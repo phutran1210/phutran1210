@@ -2,8 +2,11 @@
 ## i'm come frome VietNam.
 
 ```javascript
-write laer......
+write later......
 ```
+My Github :heart:	:heart:	:heart: | Thinking lather
+------------ | -------------
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210&show_icons=true&theme=radical)
 <!--
 **phutran1210/phutran1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
