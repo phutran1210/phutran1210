@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi everyone, i'm Ares. :black_heart::black_heart::black_heart:
+## i'm come frome VietNam.
 
+```javascript
+write laer......
+```
 <!--
 **phutran1210/phutran1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
