@@ -16,9 +16,10 @@ Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUE
 
 # I am a person who loves to sleep 	:rofl:	:rofl:	:rofl:	:rofl:	:rofl:
 
+<hr/>
 
-My Github :heart:	:heart:	:heart: | Thinking lather
------------- | -------------
+My Github :heart:	:heart:	:heart: |
+------------ | 
 ![phutran1210's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210&show_icons=true&theme=radical)
 
 <!--
