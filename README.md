@@ -3,7 +3,9 @@
 <hr/>
 
 # About me
-## Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACTJS.
+```javascript
+Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACTJS.
+```
 <hr/>
 # My Hobbies
 
