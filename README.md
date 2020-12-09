@@ -1,6 +1,9 @@
-# Hi everyone, i'm Ares. :black_heart::black_heart::black_heart:
-## i'm come frome VietNam.
+# Trần Gia Phú || Ares ::black_heart::black_heart::black_heart:
+<hr/>
 
+| Name          |                       Description                       |         Status          |
+| ------------- | :-----------------------------------------------------: | :---------------------: |
+| ## I'm Designer :black_heart: | I'm Developer Front-End :black_heart: | I'm Freelancer :black_heart: |
 ```javascript
 write later......
 ```
