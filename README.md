@@ -1,9 +1,15 @@
+
 # Trần Gia Phú || Ares ::black_heart::black_heart::black_heart:
 <hr/>
+### About me
+# Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACTJS.
+<hr/>
+### My Hobbies
 
-| Name          |                       Description                       |         Status          |
-| ------------- | :-----------------------------------------------------: | :---------------------: |
-| ## I'm Designer :black_heart: | I'm Developer Front-End :black_heart: | I'm Freelancer :black_heart: |
+| Reading :books: | Traveling :world_map: :desert_island: | Listening to music 	:musical_note: :headphones:|
+| --------------- | :--------------------------------: | :---------------------------------: |
+| The more books I read , the more I learn about life and everything. | Travel to new lands, see new people and know about new cultures | Music is the most important thing make me relax |
+
 ```javascript
 write later......
 ```
