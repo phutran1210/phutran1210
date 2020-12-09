@@ -1,10 +1,11 @@
 
 # Trần Gia Phú || Ares ::black_heart::black_heart::black_heart:
 <hr/>
-### About me
-# Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACTJS.
+
+# About me
+## Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUERY, TYPESCRIPT, REACTJS.
 <hr/>
-### My Hobbies
+# My Hobbies
 
 | Reading :books: | Traveling :world_map: :desert_island: | Listening to music 	:musical_note: :headphones:|
 | --------------- | :--------------------------------: | :---------------------------------: |
