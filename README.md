@@ -19,7 +19,8 @@ Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUE
 <hr/>
 
 # Contact me
-| My Facebook |||
+
+| My Facebook | My Instagram | My Gmail |
 
 My Github :heart:	:heart:	:heart: |
 ------------ | 
