@@ -9,16 +9,14 @@ Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUE
 <hr/>
 # My Hobbies
 
-| Reading :books: | Traveling :world_map: :desert_island: | Listening to music 	:musical_note: :headphones:|
-| --------------- | :--------------------------------: | :---------------------------------: |
-| The more books I read , the more I learn about life and everything. | Travel to new lands, see new people and know about new cultures | Music is the most important thing make me relax |
+| Reading :books: | Traveling :world_map: :desert_island: | Listening to music 	:musical_note: :headphones:| Eating :plate_with_cutlery::chopsticks:|
+| --------------- | :-----------------------------------: | :--------------------------------------------: | :------------------------------------: |
+| The more books I read , the more I learn about life and everything. | Travel to new lands, see new people and know about new cultures | Music is the most important thing make me relax | :honey_pot: :crab: 	:lobster: :green_salad: :hotdog: :hamburger:	:meat_on_bone: :poultry_leg: |
 
-```javascript
-write later......
-```
 My Github :heart:	:heart:	:heart: | Thinking lather
 ------------ | -------------
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210&show_icons=true&theme=radical)
+![phutran1210's github stats](https://github-readme-stats.vercel.app/api?username=phutran1210&show_icons=true&theme=radical)
+
 <!--
 **phutran1210/phutran1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
