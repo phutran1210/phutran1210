@@ -18,7 +18,9 @@ Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUE
 
 # Contact me
 
-| My Facebook | My Instagram | My Gmail |
+| Facebook :black_heart::black_heart: |Instagram :heart::heart: | Gmail :love_letter:|
+| :---------------------------------: | :---------------------: | :----------------: |
+| https://www.facebook.com/phutran.121094/ | https://www.instagram.com/phutr121094/ | phutran121094@gmail.com |
 
 My Github :heart:	:heart:	:heart: |
 ------------ | 
