@@ -1,6 +1,5 @@
 
 # Trần Gia Phú || Ares ::black_heart::black_heart::black_heart:
-<hr/>
 
 # About me
 
