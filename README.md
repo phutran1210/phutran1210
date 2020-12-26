@@ -9,9 +9,9 @@ Hello, I'm Ares , a web-developer. Also I am good at HTML, CSS, JAVASCRIPT, JQUE
 
 # My Hobbies
 
-| Reading :books: | Traveling :world_map: :desert_island: | Listening to music 	:musical_note: :headphones:| Eating :plate_with_cutlery::chopsticks:|
+| Reading :books: | Traveling :world_map: :desert_island: | Listening to music & Play guiar :guitar::musical_note: :headphones:| Eating :plate_with_cutlery::chopsticks:|
 | --------------- | :-----------------------------------: | :--------------------------------------------: | :------------------------------------: |
-| The more books I read , the more I learn about life and everything. | Travel to new lands, see new people and know about new cultures | Music is the most important thing make me relax | :honey_pot: :crab: 	:lobster: :green_salad: :hotdog: :hamburger:	:meat_on_bone: :poultry_leg: |
+| The more books I read , the more I learn about life and everything. | Travel to new lands, see new people and know about new cultures | Music is the most important thing make me relax <br> https://www.facebook.com/media/set/?set=a.1053768958409223&type=3 | :honey_pot: :crab: 	:lobster: :green_salad: :hotdog: :hamburger:	:meat_on_bone: :poultry_leg: |
 
 # I am a person who loves to sleep 	:rofl:	:rofl:	:rofl:	:rofl:	:rofl:
 
